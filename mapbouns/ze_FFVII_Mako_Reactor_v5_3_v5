@@ -1,0 +1,24 @@
+"mapbouns"
+{
+	"RequestClients"		"32"
+	"Rounds_HumanWin"
+	{
+		"1"
+		{
+			"round_time_need" "0"
+			"point" "25" //点数
+		}
+        "2"
+        {
+            "point" "25"
+        }
+        "3"
+        {
+            "point" "25"
+        }
+        "4"
+        {
+            "point" "25"
+        }
+    }
+}
